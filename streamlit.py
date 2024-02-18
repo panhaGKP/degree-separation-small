@@ -5,6 +5,7 @@ import time
 from itertools import islice
 
 from util import Node, QueueFrontier
+st.set_page_config(page_title="Degrees")
 light_colors = ["#f2f2f2", "#e6f7ff", "#e6ffe6", "#fff2e6", "#ffe6f7", "#f7e6ff", "#e6fff7", "#ffe6e6", "#fff7e6", "#e6fff7"]
 directory = "small"
 
